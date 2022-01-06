@@ -30,6 +30,9 @@
 
 - <b>JDK 1.8</b>
 
+## 请求路径
+- http://localhost:8080/ssm6f770/admin/dist/index.html#/login
+
 
 ## 缩略图
 
