@@ -34,6 +34,7 @@
 - http://localhost:8080/ssm6f770/admin/dist/index.html#/login
 
 
+
 ## 缩略图
 
 ![](https://img2020.cnblogs.com/blog/588112/202201/588112-20220106224456852-621122775.png)
